@@ -7,4 +7,4 @@ class Home extends Component {
             <div className="home-landing"></div>
         )
     }
-}
+}export default Home;
