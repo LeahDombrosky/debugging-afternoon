@@ -3,6 +3,7 @@ import './ShoppingCart.css';
 import { removeFromShoppingCart } from '../../redux/reducer';
 import { connect } from 'react-redux';
 
+
 class ShoppingCart extends Component {
 
     render() {
